@@ -9,3 +9,12 @@
 
 # <h2> Adding an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# <h3> In addition to code blocks, some code blocks should be rendered differently depending on the language, such as JavaScript or command-line text. Below is the git bash cmds rendered differently
+
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
