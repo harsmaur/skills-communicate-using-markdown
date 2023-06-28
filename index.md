@@ -21,3 +21,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [x] Introduce myself to the world
+# <h3> Remember, a task list starts with the syntax - [ ] and then the task list item. The formatting is specific!
